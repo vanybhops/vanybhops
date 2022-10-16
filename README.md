@@ -1,7 +1,3 @@
-
-### Most used langss:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanybhops&langs_count=8&theme=dracula)](https://github.com/vanybhops/github-readme-stats)
-
 ### My stats:
 ![vany's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanybhops&show_icons=true&theme=radical)
 
