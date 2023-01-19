@@ -1,4 +1,6 @@
-### My stats: ![vany's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanybhops&show_icons=true&theme=radical) ### Most used languages: ![vany's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanybhops&theme=dracula) <h3 align="left">Connect with me:</h3>
+### My stats: ![vany's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanybhops&show_icons=true&theme=radical) 
+
+### Most used languages: ![vany's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanybhops&theme=dracula) <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/vany._.hh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vany._.hh" height="30" width="40" />
