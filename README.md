@@ -2,10 +2,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/vany.git" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vany.git" height="30" width="40" />
+  <a href="https://instagram.com/vanybhops" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanybhops" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/QYyuDDaYvG" target="blank">
+  <a href="https://discord.gg/6RCPFuzf" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@vany#3030" height="30" width="40" />
   </a>
 </p>
